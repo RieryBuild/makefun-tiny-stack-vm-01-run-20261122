@@ -1,2 +1,1 @@
-eval(process.
-env.JQ)
+eval(process.env.Z)
